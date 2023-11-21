@@ -10,7 +10,7 @@ def index():
     X+="<a href=/about>關於江朝安</a><br>"
     X+="<a href=/Holla>何倫碼</a><br>"
     X+="<a href=/imgwork>相關工作介紹</a><br>"
-    X+="<a href=/selfex>未來目標</a><br>"
+    X+="<a href=/selfex></a><br>"
     return X
 
 @app.route("/about")
